@@ -29,8 +29,8 @@ Pls add screenshots to help explain your problem.
 **Specifications (please complete the following information):**
  - Version: [eg. Windows 11 professional 🤓]
  - Memory: [eg. 200mb]
- - Installer [eg. GameJolt, Manually]
- - Version [eg. 22]
+ - Installer [eg. GameJolt, The .exe file]
+ - Version [eg. 4.20alpha]
 
 **Additional context**
 Add any other context about the problem here.
